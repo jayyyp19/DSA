@@ -1,2 +1,2 @@
 # DSA
-It contains DSA Problems which include topic like Programming language (Java)  questions, array ,queues, Linked list, Stack, Binary Search tree ,hashing and Searching algorithm 
+It contains DSA Problems from different platforms like hackerrank,leetcode,etc.which include topic like Programming language (Java)  questions, array ,queues, Linked list, Stack, Binary Search tree ,hashing and Searching algorithm which is solved by me... 
